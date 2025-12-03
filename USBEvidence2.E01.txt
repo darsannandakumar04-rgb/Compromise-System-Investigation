@@ -1,0 +1,46 @@
+﻿Created By Exterro® FTK® Imager 8.2.0.26 
+
+Case Information: 
+Acquired using: ADI8.2.0.26
+Case Number: 1
+Evidence Number:  
+Unique Description: 
+Examiner: Darsan N
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\hp\Downloads\USBEvidence2:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 12
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 204,800
+[Physical Drive Information]
+ Drive Model: Microsoft Virtual Disk
+ Drive Interface Type: SCSI
+ Removable drive: False
+ Source data size: 100 MB
+ Sector count:    204800
+[Computed Hashes]
+ MD5 checksum:    973cbd3258b73da3a8f7673df35018f1
+ SHA1 checksum:   18a4bcd9ce68c514f6b2073e1d5e691a82c28352
+
+Image Information:
+ Acquisition started:   Tue Dec  2 22:36:50 2025
+ Acquisition finished:  Tue Dec  2 22:36:51 2025
+ Segment list:
+  C:\Users\hp\Downloads\USBEvidence2.E01
+ COMPUTED HASH :  973cbd3258b73da3a8f7673df35018f1
+ COMPUTED HASH :  18a4bcd9ce68c514f6b2073e1d5e691a82c28352
+
+Image Verification Results:
+ Verification started:  Tue Dec  2 22:36:51 2025
+ Verification finished: Tue Dec  2 22:36:51 2025
+ MD5 checksum:    973cbd3258b73da3a8f7673df35018f1 : verified
+ SHA1 checksum:   18a4bcd9ce68c514f6b2073e1d5e691a82c28352 : verified
